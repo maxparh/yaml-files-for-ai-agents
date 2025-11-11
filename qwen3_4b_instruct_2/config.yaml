@@ -1,0 +1,9 @@
+name: qwen3 4b instruct
+version: 1.0.0
+schema: v1
+
+models:
+  - name: unsloth/qwen3-4b-instruct-2507
+    provider: openai
+    apiBase: http://localhost:1234/v1
+    model: unsloth/qwen3-4b-instruct-2507
