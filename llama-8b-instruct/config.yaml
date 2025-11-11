@@ -1,0 +1,9 @@
+name: meta-llama-3.1-8b-instruct
+version: 1.0.0
+schema: v1
+
+models:
+  - name: meta-llama-3.1-8b-instruct
+    provider: openai
+    apiBase: http://localhost:1234/v1
+    model: meta-llama-3.1-8b-instruct
