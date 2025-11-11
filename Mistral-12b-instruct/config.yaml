@@ -1,0 +1,9 @@
+name: mistralai/mistral-nemo-instruct-2407
+version: 1.0.0
+schema: v1
+
+models:
+  - name: mistralai/mistral-nemo-instruct-2407
+    provider: openai
+    apiBase: http://localhost:1234/v1
+    model: mistralai/mistral-nemo-instruct-2407
